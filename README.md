@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://flowcv.com/resume/hj6jucwl22](https://flowcv.com/resume/hj6jucwl22)
 
-- ⚡ Fun fact **I love to learn everything**
+- ⚡ Fun fact **I love to learn everything 😉**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=churanta" alt="churanta" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
