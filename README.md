@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flutter, Web Development , IOT ,AR**
 
-- 📫 Here's how to reach me **churantamondal@gmail.com**
+- 📫 Here's how to reach me **churantamondal321@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/hj6jucwl22](https://flowcv.com/resume/hj6jucwl22)
 
