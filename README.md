@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Customer service App](https://github.com/Churanta/ServiceApp-Motocross-India.git)
 
-- 🌱 I’m currently learning **Angular, Spring boot**
+- 🌱 I’m currently learning **Angular, AI & ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Churanta](https://github.com/Churanta)
 
