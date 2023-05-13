@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Customer service App](https://github.com/Churanta/ServiceApp-Motocross-India.git)
+- 🔭 I’m currently working on [phonitics.com](https://github.com/Churanta/phonitics.com.git)
 
 - 🌱 I’m currently learning **Angular, AI & ML**
 
