@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular, AI & ML**👨‍💻
 
-- 👨‍💻 All of my projects are available at [https://github.com/Churanta](https://github.com/Churanta)
+-  All of my projects are available at [https://github.com/Churanta](https://github.com/Churanta)
 
 - 💬 Ask me about **Flutter, Web Development , IOT ,AR 👓**
 
