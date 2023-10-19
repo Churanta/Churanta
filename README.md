@@ -1,7 +1,8 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/Churanta)
 <h1 align="center">Hey there 👋, this is  Churanta Mondal.😀</h1>
 <h3 align="center">A passionate learner who keeps engrossed in learning and exploring new technologies.</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966]">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386kP6XY9BvI7GdMYM-SxOp7CV59BZw-zPPgdn4jUwVclAEl55IqJBebE.png">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=churanta&label=Profile%20views&color=0e75b6&style=flat+" alt="churanta" /> </p>
 
