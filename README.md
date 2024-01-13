@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [phonitics.com](https://github.com/Churanta/phonitics.com.git)
 
-- 🌱 I’m currently learning **Angular, AI & ML,Block Chain**👨‍💻
+- 🌱 I’m currently learning **Generative AI**👨‍💻
 
 -  All of my projects are available at [https://github.com/Churanta](https://github.com/Churanta)
 
